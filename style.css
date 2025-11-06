@@ -1,5 +1,5 @@
 :root {
-    --bg-page-color: #121212; /* Sayfanın tamamı koyu gri */
+    --bg-page-color: #ff6600; /* Sayfanın tamamı koyu gri */
     --bg-container-color: #000000; /* İçerik kutusunun arka planı (tam siyah) */
     --text-color: #ffffff;
     --link-bg-color: #1a1a1a;
@@ -88,8 +88,8 @@ a {
     justify-content: center; 
     align-items: center;
     gap: 0px; 
-    margin-top: 0px; 
-    margin-bottom: 5px; 
+    margin-top: 15px; 
+    margin-bottom: 15px; 
 }
 
 .social-icon-img {
@@ -136,7 +136,7 @@ a {
 }
 
 .link-item:hover {
-    background-color: #2b2b2b;
+    background-color: #ff6600;
 }
 
 .link-text {
