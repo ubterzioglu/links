@@ -1,0 +1,1 @@
+Yeni readme.md açtık. Deneme amaçlı.
